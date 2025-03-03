@@ -1,0 +1,45 @@
+# We can't define
+
+Define qualia without circular definitions or 3rd person methods (functional, structural).
+
+You can't simply say 
+- it's experience
+- which is felt feeling
+- which is what it is like
+- which is intrinsic, immediate, non-relational features of my awareness
+- which is raw, subjective, first-person aspects of consciousness
+- which is the irreducible thisness that slams into you when the world meets your mind
+- and come back from where we started.
+
+experience, feeling, what-it-is-like, intrinsic-awareness, raw aspects of consciousness, irreducible thisness, etc
+none of them really defines it, just picks another paraphrase
+
+Is it something we can possibly do?
+Is definition itself a 3rd person act which can't capture the 1st person?
+Are we in a situation where philosophy of consciousness can't define its central topic?
+
+# We can't argue or question
+The problem is even Chalmers fails here, he asks "why does it feel like something?" - a why-3rd-person-causal question on a 1st person topic?and the conceivability argument - which is a 3rd person argument - yields 1st person conclusions?
+It seems we can't define, question (why?) or give an argument (conceivability) about qualia. It is totally closed off under Chalmers' system
+
+so Nagel asks "what it is like to be a bat"
+while Chalmers asks "why does it feel like something"
+both are problematic, since questions about qualia are in principle problematic
+
+# We can't introspect
+
+The brain has distributed neural activity, but it is centralized by 
+* the need to accumulate experience - an informational or knowledge centralizing constraint, a need to generalize to new experiences from past experiences, to form useful abstractions from experience
+* the need to act serially - demanded by the body and environment, with its causal structure
+So decentralization to centralized outcomes is the name of the game
+Even if we introspect, what can we find? we find the unified front hiding the distributed activity in the brain, the user interface, the semantic-behavioral unification, but can never peek behind. Introspection into 1st person is unreliable.
+
+# What is left?
+
+we can't explain the contents (Nagel) or the causal reason (Chalmers) of qualia because it is by definition beyond language activities
+we also can't meaningfully argue about its nature (conceivability argument)
+we also can't define it
+all of them are language based activities
+even introspection fails to reveal what we hope to see
+
+If qualia are beyond definition, explanation, argument, and introspection, they seem epistemically locked away. 

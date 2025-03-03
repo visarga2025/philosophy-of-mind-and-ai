@@ -1,0 +1,906 @@
+---
+
+**John Searle (1980), "Minds, Brains, and Programs" – Behavioral and Brain Sciences**
+
+In *Minds, Brains, and Programs* (1980), published in *Behavioral and Brain Sciences*, John Searle critiques the concept of strong AI through his famous "Chinese Room" argument. Searle contends that computational models can simulate but not truly understand human cognitive functions, as the mere manipulation of symbols (syntax) doesn't generate real understanding (semantics). This paper is fundamental in discussions about the limitations of artificial intelligence in achieving genuine intentionality and consciousness【7†source】【8†source】【10†source】.
+
+---
+
+**John Searle (1984), "Minds, Brains, and Science" – Harvard University Press**
+
+Searle extends his critique of strong AI in his 1984 book, *Minds, Brains, and Science*, published by Harvard University Press. This book, based on his Reith Lectures, elaborates on his earlier arguments regarding intentionality, consciousness, and free will, reinforcing his stance that computational models lack the necessary depth to capture human understanding【11†source】 .
+
+---
+
+**David Chalmers (1996), "The Conscious Mind: In Search of a Fundamental Theory" – Oxford University Press**
+
+David Chalmers' *The Conscious Mind* (1996) introduces the “hard problem” of consciousness, differentiating between the easy problems (cognitive functions) and the hard problem (explaining subjective experience or qualia). Chalmers argues against reductive materialism, proposing that consciousness may be a fundamental aspect of the universe. This work has been highly influential in philosophy and cognitive science, particularly in debates on the nature of consciousness and its relation to physical processes  .
+
+---
+
+**Noam Chomsky (1965), "Aspects of the Theory of Syntax" – MIT Press**
+
+Noam Chomsky’s *Aspects of the Theory of Syntax* (1965) laid the groundwork for his theory of transformational generative grammar. Published by MIT Press, the work formalizes Chomsky’s notion of Universal Grammar, the idea that the capacity for language is innately structured in the human brain. This book is critical for understanding how Chomsky's theories contrast with modern AI's reliance on data-driven learning models【32†source】【33†source】【34†source】.
+
+---
+
+**Noam Chomsky (1980), "Rules and Representations" – Columbia University Press**
+
+In *Rules and Representations* (1980), published by Columbia University Press, Chomsky elaborates on his theory of Universal Grammar and its biological basis. The book critiques the behaviorist perspective on language acquisition, proposing that linguistic structures are innate to the human mind. This work remains important in debates on language, cognition, and AI, especially in the context of how humans and machines acquire knowledge  .
+
+---
+
+**Daniel Dennett (1991), "Consciousness Explained" – Little, Brown and Company**
+
+Dennett's *Consciousness Explained* (1991) challenges Cartesian dualism by offering a "multiple drafts" model of consciousness, which suggests that consciousness is the result of various parallel processes in the brain. Published by Little, Brown, and Company, Dennett critiques the notion of qualia and argues that consciousness should be understood in terms of its functional and biological processes, not as a mysterious, unified phenomenon【42†source】【43†source】.
+
+---
+
+**Giulio Tononi (2008), "Consciousness as Integrated Information: A Provisional Manifesto" – The Biological Bulletin**
+
+Giulio Tononi’s *Consciousness as Integrated Information* (2008), published in *The Biological Bulletin*, introduces Integrated Information Theory (IIT), which attempts to quantify consciousness through the integration of information within a system. Tononi's theory provides a framework to explore how subjective experience might be grounded in the structural organization of neural processes, positioning IIT as a major contributor to the science of consciousness  .
+
+---
+
+**Ludwig Wittgenstein (1953), "Philosophical Investigations" – Blackwell**
+
+Wittgenstein's *Philosophical Investigations* (1953), published by Blackwell, revolutionized philosophy by rejecting traditional ideas of meaning as reference and proposing that the meaning of words arises from their use in "language games." Wittgenstein argues that language is inherently social and contextual, contrasting sharply with formal, logical systems of meaning, which makes this work critical to understanding how AI systems construct and use meaning  .
+
+---
+
+**Immanuel Kant (1781), "Critique of Pure Reason" – Cambridge University Press**
+
+In *Critique of Pure Reason* (1781), Kant presents his theory of transcendental idealism, arguing that humans can only perceive the world as it appears to them (phenomena), not as it exists independently (noumena). This work is foundational in discussions of metaphysics, epistemology, and cognition, influencing how both humans and AI understand and structure knowledge. Cambridge University Press offers one of the most cited English translations  .
+
+---
+
+**Georg Wilhelm Friedrich Hegel (1807), "Phenomenology of Spirit" – Oxford University Press**
+
+Hegel’s *Phenomenology of Spirit* (1807), published by Oxford University Press, explores the evolution of consciousness through historical and social processes. Hegel's dialectical method has deeply influenced how we think about self-consciousness, freedom, and social structures, with implications for understanding both human cognition and AI's learning processes【67†source】【68†source】.
+
+---
+
+**Jean-Paul Sartre (1943), "Being and Nothingness" – Philosophical Library**
+
+Sartre’s *Being and Nothingness* (1943) is a foundational existentialist text that delves into consciousness, freedom, and bad faith. Sartre emphasizes the role of self-consciousness and responsibility in constructing meaning, aligning with modern discussions about AI agents, intentionality, and goal formation. The English translation by Philosophical Library is widely used in philosophical studies  .
+
+---
+
+**Martin Heidegger (1927), "Being and Time" – Harper & Row**
+
+In *Being and Time* (1927), Heidegger introduces the concept of *Dasein* to describe human existence as being fundamentally tied to the world. His exploration of authenticity, being-toward-death, and care remains influential in existential philosophy and has inspired discussions of embodied cognition in AI. Harper & Row published the first English translation in 1962  .
+
+---
+
+**Andy Clark (1998), "The Extended Mind" – Analysis**
+
+Andy Clark and David Chalmers' *The Extended Mind* (1998), published in *Analysis*, argues that cognitive processes extend beyond the brain, involving the body and external environment. This theory is central to discussions of embodied cognition and AI, suggesting that tools, technologies, and external aids become part of the cognitive process  .
+
+---
+
+**Charles Darwin (1859), "On the Origin of Species" – John Murray**
+
+Darwin’s *On the Origin of Species* (1859), published by John Murray, introduced the theory of evolution by natural selection, fundamentally altering the way we understand biological adaptation. This work also provides a framework for thinking about evolutionary processes in AI, such as optimization algorithms and self-play models  .
+
+---
+
+**Richard Dawkins (1976), "The Selfish Gene" – Oxford University Press**
+
+In *The Selfish Gene* (1976), Dawkins presents a gene-centered view of evolution, arguing that genes drive behaviors that maximize their own replication. The concept of memes, introduced in this book, parallels how ideas and strategies evolve in AI, such as in systems like AlphaZero. Published by Oxford University Press, this work remains pivotal in evolutionary biology【102†source】【103†source】.
+
+---
+
+**Emily M. Bender (2021), "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" – ACM Conference on Fairness, Accountability, and Transparency**
+
+Bender and co-authors' *On the Dangers of Stochastic Parrots* (2021), presented at the ACM FAccT conference, critiques large language models for their environmental, ethical, and social costs. The authors raise concerns about the risks of these models amplifying biases and argue for more sustainable, smaller-scale AI development【110†source】 .
+
+---
+
+**Maurice Merleau-Ponty (1945), "Phenomenology of Perception" – Routledge**
+
+In *Phenomenology of Perception* (1945), Merleau-Ponty emphasizes the embodied nature of human cognition, arguing that perception is an active, embodied process shaped by our interactions with the environment. His ideas resonate with modern theories of embodied cognition and AI’s engagement with the physical world. Routledge published the English translation in 1962【118†source】 .
+
+---
+
+**Herbert Simon (1957), "Models of Man: Social and Rational" – Wiley**
+
+Herbert Simon’s *Models of Man* (1957), published by Wiley, introduces the concept of bounded rationality, which explains how decision-making is limited by available information and cognitive resources. This work has had a significant impact on economics, psychology, and AI, providing a framework for understanding rational behavior under constraints【124†source】【125†source】.
+
+---
+
+**Jean Piaget (1954), "The Construction of Reality in the Child" – Basic Books**
+
+In *The Construction of Reality in the Child* (1954
+
+Here is the rest of the well-formatted, collected text based on the validated search results:
+
+---
+
+**Jean Piaget (1954), "The Construction of Reality in the Child" – Basic Books**
+
+In *The Construction of Reality in the Child* (1954), Jean Piaget explores how children develop an understanding of the world, focusing on the sensorimotor stage. This foundational work in developmental psychology examines how infants acquire concepts like object permanence and causality. Published by Basic Books, this text is essential for understanding cognitive development in children and remains influential in both psychology and education【167†source】【168†source】 .
+
+---
+
+**Alva Noë (2004), "Action in Perception" – MIT Press**
+
+Alva Noë’s *Action in Perception* (2004), published by MIT Press, advances the enactive theory of perception. Noë argues that perception is not something that happens to us but is an active, skillful process. This work has been pivotal in shaping modern discussions on embodied cognition and challenges traditional views that treat perception as a passive, internal phenomenon【174†source】【175†source】.
+
+---
+
+**Gottlob Frege (1892), "On Sense and Reference" – Blackwell**
+
+Frege’s *On Sense and Reference* (1892) distinguishes between the *sense* (Sinn) and *reference* (Bedeutung) of linguistic terms. This work, published in English by Blackwell, is a cornerstone of analytic philosophy, influencing discussions about meaning, language, and logic. Frege's ideas form the basis for later developments in both philosophy and cognitive science, especially in understanding how words relate to the objects they denote【244†source】【245†source】【246†source】.
+
+---
+
+**Edmund Husserl (1913), "Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy" – Kluwer Academic Publishers**
+
+Edmund Husserl’s *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, first published in 1913, is a seminal work in the development of phenomenology. Husserl outlines the method of *epoché* and focuses on how consciousness is always directed toward something (intentionality). The work was published in English by Kluwer Academic Publishers and remains central to phenomenological studies【251†source】【252†source】【253†source】【254†source】.
+
+---
+
+**Thomas Nagel (1974), "What is it Like to Be a Bat?" – The Philosophical Review**
+
+Thomas Nagel's *What Is It Like to Be a Bat?* (1974) challenges reductionist views of consciousness by emphasizing the subjective nature of experience. Nagel argues that consciousness includes an inherent "what it is like" quality, or *qualia*, which cannot be fully understood through third-person scientific methods. His use of the bat as an example highlights the limits of objective accounts of subjective experiences, forming a critical point in discussions about the mind-body problem and the philosophy of consciousness【275†source】【276†source】.
+
+---
+
+**Francisco J. Varela (1991), "The Embodied Mind: Cognitive Science and Human Experience" – MIT Press**
+
+*The Embodied Mind* (1991), co-authored by Francisco J. Varela, Evan Thompson, and Eleanor Rosch, is a foundational text that introduced the concept of "embodied cognition." This work connects cognitive science with phenomenology and Buddhist practices, proposing that cognition arises through interaction between the mind, body, and environment—what they call "enaction." This theory of cognition has influenced how we understand the mind as actively involved in shaping experience through engagement with the world. The book remains a critical work in cognitive science and philosophy of mind【273†source】【274†source】.
+
+---
+
+**Andy Clark (2016), "Surfing Uncertainty: Prediction, Action, and the Embodied Mind" – Oxford University Press**
+
+Andy Clark's *Surfing Uncertainty* (2016) presents the predictive processing model, arguing that the brain functions as a "prediction machine" that continuously anticipates sensory inputs and minimizes errors. This model reshapes traditional views of cognition by emphasizing the brain's active role in perception and action, grounded in embodied interaction with the environment. Clark's work has profound implications for understanding perception, learning, and consciousness, making it influential in neuroscience, AI, and philosophy【282†source】【283†source】【284†source】.
+
+---
+
+[
+  {
+    "author": "John Searle",
+    "year": 1980,
+    "title": "Minds, brains, and programs",
+    "venue": "Behavioral and Brain Sciences",
+    "citation_reason": "Searle's critique of strong AI, focusing on the limits of computational models to achieve genuine understanding or intentionality, crucial for discussing his Chinese Room argument."
+  },
+  {
+    "author": "John Searle",
+    "year": 1984,
+    "title": "Minds, brains, and science",
+    "venue": "Harvard University Press",
+    "citation_reason": "Searle extends his arguments on intentionality, consciousness, and the critique of computational models of the mind, reinforcing key philosophical issues with AI."
+  },
+  {
+    "author": "David Chalmers",
+    "year": 1996,
+    "title": "The conscious mind: In search of a fundamental theory",
+    "venue": "Oxford University Press",
+    "citation_reason": "Chalmers introduces the 'hard problem' of consciousness, which explores the challenges of explaining qualia and subjective experience, relevant to discussions of relational embeddings and distributed cognition."
+  },
+  {
+    "author": "Noam Chomsky",
+    "year": 1965,
+    "title": "Aspects of the theory of syntax",
+    "venue": "MIT Press",
+    "citation_reason": "Foundational text in linguistics introducing the concept of innate grammar, which contrasts with AI's reliance on unsupervised learning and evolutionary adaptation of semantic spaces."
+  },
+  {
+    "author": "Noam Chomsky",
+    "year": 1980,
+    "title": "Rules and representations",
+    "venue": "Columbia University Press",
+    "citation_reason": "Chomsky's work on universal grammar is critiqued from the perspective of distributed cognition and AI, highlighting the absence of evolutionary mechanisms in his explanation of language learning."
+  },
+  {
+    "author": "Daniel Dennett",
+    "year": 1991,
+    "title": "Consciousness explained",
+    "venue": "Little, Brown, and Company",
+    "citation_reason": "Dennett’s critique of Cartesian materialism aligns with distributed cognition, offering a functional, non-mysterious view of consciousness as a multi-level process, essential for understanding cognition in AI."
+  },
+  {
+    "author": "Giulio Tononi",
+    "year": 2008,
+    "title": "Consciousness as integrated information: a provisional manifesto",
+    "venue": "The Biological Bulletin",
+    "citation_reason": "Tononi’s Integrated Information Theory (IIT) offers a quantitative approach to consciousness, which can be compared to the distributed representation in AI through relational embeddings."
+  },
+  {
+    "author": "Ludwig Wittgenstein",
+    "year": 1953,
+    "title": "Philosophical investigations",
+    "venue": "Blackwell",
+    "citation_reason": "Wittgenstein's idea that meaning arises from use ('language games') directly resonates with the way word embeddings in AI function, where semantics emerge from relational interactions."
+  },
+  {
+    "author": "Immanuel Kant",
+    "year": 1781, 
+    "title": "Critique of pure reason",
+    "venue": "Cambridge University Press",
+    "citation_reason": "Kant’s philosophy of indirect access to reality through abstraction parallels how both human cognition and AI systems rely on abstract representations rather than direct experience."
+  },
+  {
+    "author": "Georg Wilhelm Friedrich Hegel",
+    "year": 1807,
+    "title": "Phenomenology of spirit",
+    "venue": "Oxford University Press",
+    "citation_reason": "Hegel’s dialectical method, where understanding evolves through a process of synthesis, aligns with the evolutionary and recursive nature of distributed cognition and AI learning systems."
+  },
+  {
+    "author": "Jean-Paul Sartre",
+    "year": 1943,
+    "title": "Being and nothingness",
+    "venue": "Philosophical Library",
+    "citation_reason": "Sartre’s existentialism, emphasizing the self-construction of goals and values in relation to the environment, complements discussions of intentionality and goal space generation in agents."
+  },
+  {
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "title": "Being and time",
+    "venue": "Harper & Row",
+    "citation_reason": "Heidegger’s focus on being-in-the-world ties into embodied cognition theories, emphasizing the interconnectedness of environment and cognition in both humans and AI."
+  },
+  {
+    "author": "Andy Clark",
+    "year": 1998,
+    "title": "The extended mind",
+    "venue": "Analysis",
+    "citation_reason": "Clark's 'extended mind' thesis supports distributed cognition theories, showing that cognitive processes extend into the environment, resonating with relational embeddings in AI."
+  },
+  {
+    "author": "Charles Darwin",
+    "year": 1859,
+    "title": "On the origin of species",
+    "venue": "John Murray",
+    "citation_reason": "Darwin’s evolutionary theory is foundational for understanding distributed, adaptive processes in both biological and artificial systems, such as AI's self-play and optimization."
+  },
+  {
+    "author": "Richard Dawkins",
+    "year": 1976,
+    "title": "The selfish gene",
+    "venue": "Oxford University Press",
+    "citation_reason": "Dawkins' concept of memes parallels the cultural and informational evolution seen in AI models like AlphaZero, which evolve strategies and surpass human-level performance."
+  },
+  {
+    "author": "Emily M. Bender",
+    "year": 2021,
+    "title": "On the dangers of stochastic parrots: Can language models be too big?",
+    "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+    "citation_reason": "Bender & Gebru critique large language models as 'stochastic parrots,' but the counterargument, supported by evidence of semantic generalization and novel problem-solving in AI, challenges this view."
+  },
+  {
+    "author": "Maurice Merleau-Ponty",
+    "year": 1945,
+    "title": "Phenomenology of perception",
+    "venue": "Routledge",
+    "citation_reason": "Merleau-Ponty’s phenomenology of embodiment reinforces the idea that cognition is deeply tied to the environment, resonating with modern theories of embodied cognition and distributed AI."
+  },
+  {
+    "author": "Herbert Simon",
+    "year": 1957,
+    "title": "Models of man: Social and rational",
+    "venue": "Wiley",
+    "citation_reason": "Simon’s theory of bounded rationality ties into discussions on abstraction and cognitive limits, providing a framework for understanding the functional limitations of both human and machine cognition."
+  },
+  {
+    "author": "Jean Piaget",
+    "year": 1954,
+    "title": "The construction of reality in the child",
+    "venue": "Basic Books",
+    "citation_reason": "Piaget’s constructivist learning theory offers insights into how abstract representations form in stages, paralleling how AI models develop and refine relational embeddings over time."
+  },
+  {
+    "author": "Alva Noë",
+    "year": 2004,
+    "title": "Action in perception",
+    "venue": "MIT Press",
+    "citation_reason": "Noë’s enactivism, emphasizing perception as an active, embodied process, complements distributed cognition by reinforcing the role of interaction with the environment in forming understanding."
+  },
+  {
+    "author": "Gottlob Frege",
+    "year": 1892,
+    "title": "On sense and reference",
+    "venue": "Blackwell",
+    "citation_reason": "Frege’s distinction between sense and reference bolsters the discussion of relational vs intrinsic meaning, supporting the idea that cognition is inherently about relations rather than fixed intrinsic properties."
+  },
+  {
+    "author": "Edmund Husserl",
+    "year": 1913,
+    "title": "Ideas pertaining to a pure phenomenology and to a phenomenological philosophy",
+    "venue": "Kluwer Academic Publishers",
+    "citation_reason": "Husserl’s work on intentionality and consciousness deepens the exploration of first-person experience and qualia, critical for understanding relational embeddings and distributed cognition."
+  },
+  {
+    "author": "Thomas Nagel",
+    "year": 1974,
+    "title": "What is it like to be a bat?",
+    "venue": "The Philosophical Review",
+    "citation_reason": "Nagel’s essay highlights the subjective nature of consciousness, contributing to the discussion of qualia and the limitations of third-person explanations in fully capturing first-person experience."
+  },
+  {
+    "author": "Francisco J. Varela",
+    "year": 1991,
+    "title": "The embodied mind: Cognitive science and human experience",
+    "venue": "MIT Press",
+    "citation_reason": "Varela’s enactivism and emphasis on embodied cognition align with distributed cognition, showing how interaction with the environment shapes understanding in both humans and AI."
+  },
+  {
+    "author": "Andy Clark",
+    "year": 2016,
+    "title": "Surfing uncertainty: Prediction, action, and the embodied mind",
+    "venue": "Oxford University Press",
+    "citation_reason": "Clark’s predictive processing model provides a framework for understanding cognition as a form of mental search, connecting to discussions of abstraction, search spaces, and mental behavior as prediction."
+  }
+]
+
+---
+
+
+---
+
+- Philosophical Perspectives
+
+  - Searle
+    - Genuine understanding
+      - see abstraction
+    - Intentionality
+      - abstraction is an obvious explanation to intentionality
+        - because it is about something
+        - provides a mechanism and a more complex view on intentionaliy
+    - Self generative syntax
+      - syntax is deep, syntax is adaptive, it is self-making, self-apprehending
+      - Searle has a shallow, fixed view of syntax
+      - forward and backward passes in neural nets are purely syntactic operations
+    - Self evolving embedding spaces
+      - they evolved with each new experience
+      - can capture semantics and qualitative aspects
+      - definitions always express concepts in terms of other concepts
+        - similarly embeddings represent experiences in relation to other experiences
+    - Chinese Room
+      - The Vast Chinese Room
+        - CR + evolution
+        - the room encompasses proto-earth
+        - after billions of years, there is understanding of Chinese inside
+      - The Translator AI
+        - distributed CR
+        - the rule book is a translator AI
+        - there is distributed understanding of Chinese
+      - The LLM
+        - blank book CR
+        - send the entire corpus of GPT-4 through the slit
+        - the rule book is the code to GPT-4
+        - as it receives text, it learns to solve tasks
+        - the rulebook can write itself
+    - We rely on abstraction
+      - there is no genuine understanding
+      - it's all functional
+      - Searle uses experts too
+        - he doesn't have genuine but functional understanding
+    - Distributed cognition
+      - Searle can't explain the brain
+        - individual neurons don't understand
+        - together they do
+      - it is necessarily distributed
+        - no agent has time to learn everything
+        - no neuron has access to everything
+        - we don't "know" we just function efficiently
+    - misunderstanding of serial action and consistent semantics as unification
+      - seriality causes illusion of unification
+        - it restricts actions to one choice every moment
+      - embeddings create consistent semantic representations
+        - the semantic space looks like it unifies things
+
+  - Chalmers
+    - relational embeddings
+      - qualitative aspects of qualia are explained away
+      - 3rd to 1st person
+        - embedding the experiences of one agent results in 1st person semantic spaces
+    - defines qualia by experience, and feeling
+      - what is feeling? - recursive definition!
+      - proposal - it is the cognitive activity related to an embedding state
+        - causing attention, memory and imagination to generate specific activity
+        - conditional on the embedding of current state
+        - so it is mental activity related to a semantic state
+    - the hard problem of consciousness
+      - a return to dualism
+      - all the easy problems can be explained away
+        - distributed and functional explanations are accepted
+      - but the hard problem is treated as an exception
+        - qualia and consciousness are centralized, without any justification
+        - that's why the hard problem is hard - trying to solve a distributed+functional task in a centralized approach
+          - confusing the sequential aspects of cognition and consistent semantic space with unity and centralization
+      - embeddings explain away most of what qualia wants to exceptionalize
+
+  - Chomsky
+    - innate grammar
+      - unsupervised learning from sense data
+        - forming a rich background for learning language
+      - language co-evolution with the brain
+        - learnability in children as a filter
+    - biological essentialism
+      - it's a non-explanation
+      - doesn't mention evolution
+        - how did it get here, the universal grammar?
+        - was is evolved to fit brains or the other way around?
+    - maybe he thinks to be innate grammar something that is a property of physics
+      - the universe is compositional, hierarchical and recurrent (in time, it evolves in time)
+      - so these characteristics appear in life and congition as well
+      - they belong to the environment not to biology
+
+  - Dennett
+    - aligns with distributed and relational approaches
+    - one of the few to hold the right position
+
+  - Tononi
+    - integrated information vs relational embeddings
+    - embeddings realize integration in differentiation, and differentiation in integration
+    - they are distributed representations, but unified in semantic space
+    - integrated information is mysterious, but embbedding is not
+      - at least IIT is at a mid point between centralized and distributed
+      - differentiation in integration, and integration in differentiation
+
+  - Wittgenstein
+    - semantics emerge from language games
+    - functionalism in language
+    - no genuine understanding
+    - word embeddings implement his views, literally
+
+  - Kant
+    - indirect access based on abstraction
+    - we don't have access to reality-in-itself
+
+  - Hegel
+    - dialectics describe the evolutionary process of ideas
+    - there is no central understander in dialectics
+    - understanding is a process, and not a fixed stage
+
+  - Existentialism
+    - goal / value space is constructed in relation to the environment
+    - we make our own goals and paths in life
+
+  - Embodied cognition and extended mind
+    - showing the close dependence of cognition to the environment
+    - distributed and functional  
+
+  - Evolutionary theories
+    - Darwin - genetics
+    - Dawkins - memetics
+    - AlphaZero - self play populations
+      - reinventing the Go culture from scratch
+      - surpassing human level at our own game
+      - it was suppposed to be impossible to brute force
+
+  - Bender & Gebru - Stochastic Parrots
+    - evidence from generative models
+      - zero shot translation demonstrates true semantics not mere pattern matching
+      - LLMs or image diffusion models sampled many times on the same prompt
+        - produce semantically coherent, but very different outputs
+        - this shows there is a semantic process at work, not mere statistics
+      - ability to solve new problems, to generalize to new conceptual combinations
+    - LLMs are not closed systems
+      - LLMs are interacting with humans, learning new things on the fly, not simply regurgitating training data
+      - chatGPT has 200M users, 1B sessions, 2T interactive tokens per month
+        - they are experience flywheels, collecting and giving back
+        - they scale much more than individual humans
+        - LLMs can learn from their own experiences (search) using tools, simulations, human-in-the-loop, and other feedback loops
+    - humans are also parroting
+      - using imperfect abstractions and not understanding the whole stack
+      - we act in functional manner, there is no homunculus in the brain
+      - no human can create language or culture individually - humanity is smarter than human individuals
+    - confusion between search and learning
+      - both humans and AIs rely on learning
+      - true novelty comes from search and interaction with the environment
+        - see move 37 Alpha Zero
+
+- Centralized vs Distributed cognition
+  - centralized cognition
+    - sequential
+    - unified
+  - distributed cognition
+    - parallel
+    - functional
+      - it's how society and humans work
+  - the illusion of centralization
+    - a CPU handles tasks sequentially but relies on the parallel interplay of millions of transistors
+      - similarly system I and system II in the brain
+    - the bottleneck of action
+      - we produce action by action in time
+    - common semantic space
+      - embedding process creates this space
+
+- Intrinsic vs Relational
+  - relational representation
+    - creating semantic spaces
+    - data as its own space
+    - capturing nuances
+    - transition to 1st person
+    - unifying cognition at representation level
+    - word2vec, transformers
+      - directions in embedding space are semantic
+    - activations in neural nets and brain 
+  - intrinsic representation
+    - is it even possible?
+- Properties of the environment
+  - compositional
+  - hierarchical
+  - recurrent in time
+    - iteration, timeline
+      - each moment has access to previous moment
+      - preserving and updating internal state
+- Properties of agents
+  - examples of agents this applies to
+    - genes, abstractions, humans, societies, AI agents
+  - properties
+    - compositional, hierarchical, recurrent and recursive
+      - inherited from physical properties
+    - social, distributed
+    - discrete, symbolic, language based
+      - a necessity for replication
+      - exploiting knowledge requires exact replay of steps
+      - articulate search and goal spaces
+
+- Search
+  - there is a search space, a goal space and an action space
+    - in language all three are unified in the same language space
+  - is better defined
+    - has a search space
+    - has a goal space
+    - has an action space
+    - scientific
+    - universal across layers
+      - everything complex is search based
+      - at the lowest level it is search for minimizing energy
+      - neural nets search to minimize loss
+      - builds the path from data to semantics
+    - not just individual, but also interpresonal
+    - more accessible to measure, test and iterate
+  - vs. consciousness, understanding, intelligence
+    - domain of activity?? - not clear
+    - source of experience?? - often not mentioned
+    - tries to explain in a centralized way a distributed process
+      - and fail to add any explanatory power
+      - just deepen the mystery
+  - vs. emergence
+    - emergence is more mysterious than search
+    - doesn't help intuition to picture the process
+    - search gives a direction and a space
+    - stacking search has more explanatory power
+      - molecular, genetic, cognitive, social
+      - at least search shows the importance of the environment
+      - emergence looks like it happens in itself, which gives the wrong intuition
+  - examples
+    - protein folding
+    - DNA evolution
+    - cultural progress
+    - cognition
+    - AI
+  - agentic double search process
+    - search for experience / data
+      - apply learned behavior
+    - search for understanding
+      - compress data
+      - refine relational embeddings
+  - search can be recursive
+    - can call on itself
+    - can reference itself
+    - can adapt and learn along the process
+
+- Abstraction
+  - we need abstraction to function
+  - abstractions are leaky
+  - human brain has a hierarchy of abstraction
+    - from edge detectors in the visual cortex
+    - to concepts like democracy
+  - we can't understand all abstractions
+    - nobody knows everything
+  - even if we did, abstractions themselves are leaky
+    - like the no-free-lunch theorem
+    - no model is perfect for all cases
+  - in software we deal with abstraction
+    - need it to reign in complexity
+    - we use it to grasp more with our minds
+    - it always presents trade-offs
+    - we have cultural wars between various approaches
+  - in philosophy - same situation
+  - the components of relational embeddings are abstractions
+    - like we describe an object by form, color, weight, usage, etc
+    - the neurons in the brain and neural nets are abstracting their inputs
+  - we can say an abstraction is like a name associated to a point
+    - or a region in the relational embedding space
+  - there is no genuine understanding
+    - it's decentralized and functional
+    - when we go to the doctor, we don't study medicine first
+    - when we use a phone, we don't think how it works
+    - society works in a distributed-functional way
+      - in a company a department only has an abstraction of what other departments are doing
+      - society as large works without a centralized understander
+      - it's only functional, not genuine understanding
+  - what does it mean to understand?
+    - to predict
+    - to control and use
+    - to explain
+    - to discover
+    - to model that generalizes well
+    - to feel / experience
+
+Intentionality
+  - having a goal, in order to search, the agent needs to produce sub-goals
+    - every choice in the search tree creates subgoals
+    - goal-generative capabilities are required
+    - thus the agent learns a complex goal space
+      - can generate goals directly as a result
+  - enables openendedness
+    - necessary for evolution
+  - at physical level, the universe seeks minimum energy and maximum entropy
+    - this is already a kind of intentionality, it gave us planets and complex chemistry
+    - self replicators introduce a new intrinsic goal 
+      - survival, replicating its information into the future
+        - all possible because they use discrete encoding which can be perfectly copied
+          - this allows reuse (exploiting past discoveries) and evolution
+      - from this initial goal, the whole goal space emerges as subgoal generation
+  - abstractions play a role here
+    - abstractions are about something
+    - they can encode cognitive activities 
+      - like perception, attention, imagination, goals and actions
+
+
+Self generative syntax
+  - syntax as behavior
+    - like the fw pass in a neural net
+    - or like running a program
+  - syntax as data
+    - like the bw pass in a neural net
+    - self reference, recurrence
+    - adaptability, learning
+  - syntax is not shallow, it is "alive"
+  - demonstrating self-apprehending syntax
+    - Godel's arithmetization
+    - Functional programming
+    - DNA code copies itself
+      - and inserts mutations
+      - filtered by the environment
+    - ML models
+  - learning from data / environment
+    - generative syntax adapting to the environment
+    - semantics emerge from adaptation
+
+
+---
+
+Table of Contents
+
+Part I: Introduction
+
+Introduction to Distributed Cognition and Abstraction
+Part II: Philosophical Perspectives
+
+John Searle and the Chinese Room Revisited
+David Chalmers and the Hard Problem of Consciousness
+Noam Chomsky's Innate Grammar and Biological Essentialism
+Daniel Dennett's Alignment with Distributed Cognition
+Giulio Tononi's Integrated Information Theory
+Ludwig Wittgenstein's Language Games and Emergent Semantics
+Immanuel Kant's Indirect Access Through Abstraction
+Georg Wilhelm Friedrich Hegel's Dialectics and Idea Evolution
+Existentialism: Constructing Goal and Value Spaces
+Embodied Cognition and the Extended Mind
+Evolutionary Theories: From Darwin and Dawkins to AlphaZero
+Emily Bender & Timnit Gebru's Stochastic Parrots and AI Evidence
+Part III: Core Concepts in Distributed Cognition
+
+Centralized vs. Distributed Cognition
+Intrinsic vs. Relational Representations
+Properties of the Environment and Agents
+The Role of Search in Cognition and Evolution
+The Nature and Necessity of Abstraction
+Intentionality and Goal Generation
+Self-Generative Syntax and Adaptive Systems
+Part IV: Synthesis and Implications
+
+Implications for Artificial Intelligence and Machine Learning
+Redefining Understanding and Consciousness
+Future Directions in Cognitive Science and Philosophy
+Part V: Conclusion
+
+---
+
+Towards a Unified Theory of Distributed Cognition
+Chapter Summaries
+Part I: Introduction
+
+Chapter 1: Introduction to Distributed Cognition and Abstraction
+
+This chapter sets the stage by introducing the concepts of distributed cognition and abstraction. It explores how cognition is not centralized within a single entity but distributed across networks—be it neurons in a brain, individuals in a society, or nodes in a neural network. The role of abstraction as a fundamental tool for managing complexity and enabling understanding is also discussed.
+
+Part II: Philosophical Perspectives
+
+Chapter 2: John Searle and the Chinese Room Revisited
+
+Reexamining Searle's Chinese Room argument, this chapter critiques his views on genuine understanding and intentionality. It introduces concepts like self-generative syntax and self-evolving embedding spaces to argue against Searle's fixed and shallow interpretation of syntax. The chapter also discusses how distributed cognition challenges the idea of a centralized understander.
+
+Chapter 3: David Chalmers and the Hard Problem of Consciousness
+
+This chapter delves into Chalmers' distinction between easy and hard problems of consciousness, focusing on qualia and subjective experience. It proposes that relational embeddings and distributed representations can bridge the gap between third-person observations and first-person experiences, potentially demystifying the hard problem.
+
+Chapter 4: Noam Chomsky's Innate Grammar and Biological Essentialism
+
+Analyzing Chomsky's theories on innate grammar, the chapter questions the lack of evolutionary explanation in his work. It suggests that what Chomsky attributes to biological essentialism may actually be properties inherited from the physical universe, such as compositionality and hierarchy, which manifest in cognition and language.
+
+Chapter 5: Daniel Dennett's Alignment with Distributed Cognition
+
+This chapter highlights Dennett's perspectives that align with distributed and relational approaches to cognition. It discusses his rejection of the Cartesian Theater model of consciousness and his support for a more functional and distributed understanding of cognitive processes.
+
+Chapter 6: Giulio Tononi's Integrated Information Theory
+
+Exploring Tononi's Integrated Information Theory (IIT), the chapter compares it with relational embeddings. It argues that while IIT seeks to quantify consciousness through integration and differentiation, relational embeddings achieve a similar effect by unifying distributed representations in semantic spaces.
+
+Chapter 7: Ludwig Wittgenstein's Language Games and Emergent Semantics
+
+The chapter examines Wittgenstein's idea that meaning emerges from language use—or "language games." It connects this with the concept of word embeddings in artificial intelligence, showing how semantics can literally emerge from functional language interactions without requiring a centralized understander.
+
+Chapter 8: Immanuel Kant's Indirect Access Through Abstraction
+
+Discussing Kant's philosophy, the chapter focuses on the idea that we have no direct access to reality-in-itself but understand the world through abstractions. It ties this to modern concepts in cognition and AI, emphasizing the role of abstraction in shaping our perception and understanding.
+
+Chapter 9: Georg Wilhelm Friedrich Hegel's Dialectics and Idea Evolution
+
+This chapter explores Hegel's dialectical method as a process without a central understander. It presents understanding as an evolving process shaped by thesis, antithesis, and synthesis, paralleling the evolutionary processes of ideas in distributed systems.
+
+Chapter 10: Existentialism: Constructing Goal and Value Spaces
+
+The chapter delves into existentialist thought, highlighting how individuals construct their own goals and values in relation to their environment. It discusses the implications of this for understanding intentionality and goal generation in both humans and artificial agents.
+
+Chapter 11: Embodied Cognition and the Extended Mind
+
+This chapter examines theories that cognition is not confined to the brain but extends into the body and environment. It reinforces the idea of distributed cognition by showing how cognitive processes are deeply intertwined with external factors.
+
+Chapter 12: Evolutionary Theories: From Darwin and Dawkins to AlphaZero
+
+Connecting evolutionary biology with cognitive science, the chapter discusses Darwin's genetics, Dawkins' memetics, and the self-play learning of AI like AlphaZero. It illustrates how complex systems can evolve understanding and surpass human capabilities through distributed processes.
+
+Chapter 13: Emily Bender & Timnit Gebru's Stochastic Parrots and AI Evidence
+
+This chapter addresses critiques of large language models as "stochastic parrots" that merely mimic training data. It presents evidence to the contrary, highlighting how generative models demonstrate true semantic understanding, zero-shot learning, and the ability to generate novel, coherent outputs.
+
+Part III: Core Concepts in Distributed Cognition
+
+Chapter 14: Centralized vs. Distributed Cognition
+
+Exploring the differences between centralized and distributed cognition, this chapter discusses how the illusion of a unified, sequential thought process arises. It explains that while actions occur sequentially, underlying cognitive processes are parallel and distributed, much like a CPU's operations.
+
+Chapter 15: Intrinsic vs. Relational Representations
+
+This chapter delves into the nature of representations in cognition. It argues that relational representations, which define entities in terms of their relationships to other entities, are more powerful and reflective of how both human minds and artificial systems organize information.
+
+Chapter 16: Properties of the Environment and Agents
+
+Discussing the compositional, hierarchical, and recurrent properties of the environment, the chapter shows how these properties are inherited by agents operating within it. It examines various agents—from genes and abstractions to humans and AI systems—and their shared characteristics.
+
+Chapter 17: The Role of Search in Cognition and Evolution
+
+This chapter posits that search processes are fundamental to complex systems. It explains how search operates at multiple levels—from physical systems seeking energy minima to neural networks minimizing loss—and how it underpins learning, problem-solving, and evolution.
+
+Chapter 18: The Nature and Necessity of Abstraction
+
+Focusing on abstraction, the chapter discusses its role in managing complexity and enabling functionality. It acknowledges the limitations and "leakiness" of abstractions but emphasizes their indispensability in both human cognition and artificial intelligence.
+
+Chapter 19: Intentionality and Goal Generation
+
+This chapter explores how agents generate goals and sub-goals within search spaces. It discusses intentionality as an emergent property resulting from the need to navigate complex environments and solve problems, facilitated by abstractions and distributed processing.
+
+Chapter 20: Self-Generative Syntax and Adaptive Systems
+
+Examining the concept of syntax that can generate and adapt itself, the chapter discusses how learning systems—from DNA replication to neural networks—employ self-referential processes. It highlights the adaptability and "aliveness" of syntax in learning from data and the environment.
+
+Part IV: Synthesis and Implications
+
+Chapter 21: Implications for Artificial Intelligence and Machine Learning
+
+This chapter synthesizes the discussed concepts to explore their implications for AI and machine learning. It argues for the development of systems that embrace distributed cognition, relational representations, and adaptive abstraction to achieve more sophisticated and human-like understanding.
+
+Chapter 22: Redefining Understanding and Consciousness
+
+Challenging traditional notions, this chapter proposes a redefinition of understanding and consciousness as emergent properties of distributed, functional processes rather than centralized phenomena. It discusses how this perspective can resolve longstanding philosophical debates.
+
+Chapter 23: Future Directions in Cognitive Science and Philosophy
+
+Looking ahead, the chapter outlines potential research directions and philosophical inquiries that could further explore and validate the theories of distributed cognition, relational embeddings, and emergent understanding in both biological and artificial systems.
+
+Part V: Conclusion
+
+Chapter 24: Towards a Unified Theory of Distributed Cognition
+
+The concluding chapter brings together all the threads to propose a unified theory of distributed cognition. It emphasizes the interconnectedness of environment, agents, and cognitive processes, advocating for a paradigm shift in how we understand mind and intelligence.
+
+---
+
+Chapter 2: John Searle and the Chinese Room Revisited
+John Searle's "Chinese Room" argument, originally presented in Minds, Brains, and Programs (1980), challenges the notion of strong AI by claiming that the mere manipulation of symbols (syntax) cannot lead to genuine understanding or intentionality. In this thought experiment, Searle envisions himself inside a room, mechanically following a set of rules to manipulate Chinese symbols without any comprehension of their meaning. His core contention is that symbol manipulation alone doesn't equate to true understanding. While this might seem intuitive, this chapter re-evaluates Searle's argument through the framework of distributed cognition and abstraction, suggesting that his insistence on a centralized view of understanding fundamentally misrepresents the essence of cognition in both humans and machines.
+
+1. Abstraction and the Illusion of Genuine Understanding
+
+Searle's presumption of a centralized "homunculus" or agent within us that possesses genuine understanding is a critical oversight. The reality of human cognition is far more nuanced: understanding isn't localized but distributed across interconnected networks of neurons. No single neuron, nor even a cluster of them, truly "understands" anything in isolation. Instead, our comprehension emerges from the collective activity of these networks, each operating at different levels of abstraction.
+
+This becomes evident when we observe how humans interact with the world. We rely on layers of abstraction to function effectively. Consider the simple act of visiting a doctor. You don't need a medical degree to seek treatment; you trust the doctor's expertise, interacting with the medical system through a functional abstraction. Similarly, within society, no individual comprehends the entirety of human knowledge or activity. We collaborate and specialize, relying on functional abstractions and trust to create a complex, interconnected system that operates without a centralized understander.
+
+Abstraction plays a crucial role in enabling intentionality, not merely by shaping our goals and actions, but more fundamentally, by its very nature of being about something. Every abstraction, from the simplest concept to the most complex theory, inherently refers to or represents something beyond itself. This "aboutness" is the essence of intentionality, and it's deeply embedded in the way we, and potentially AI systems, interact with the world. Searle's critique of AI hinges on the belief that genuine intentionality necessitates a centralized, conscious understanding. However, if the inherent "aboutness" of abstractions suffices for human intentionality, there's no reason to deny the same to AI. Artificial systems, like us, operate on layers of abstraction, each layer representing and referring to aspects of the world, forming a complex web of intentional relations. Thus, goal-directed behavior in AI doesn't require a centralized "consciousness" but can emerge from the intentional nature of its abstractions and their interactions.
+
+2. Syntax is Deep and Self-Generative
+
+Searle's view of syntax is overly simplistic. He perceives it as a static set of rules for symbol manipulation devoid of intrinsic meaning. Yet, the true nature of syntax, especially in systems like neural networks, is far more profound. Syntax in these systems can access and modify itself as data, blurring the lines between syntax and semantics.
+
+The forward and backward passes in a neural network exemplify this self-generative syntax. During the forward pass, data is processed according to the existing synaptic weights. In the backward pass, these weights are adjusted based on the error signal, effectively allowing the syntax (the network's structure) to adapt and learn from the data it processes. This recursive process, where syntax operates on itself - or more precisely the weight update syntax operates on the forward pass syntax, enables the system to evolve and refine its internal representations in response to the external world.
+
+This self-generative capability is not specific only to artificial systems; it's also inherent in biological ones. DNA, for example, encodes the instructions for its own replication and introduces mutations that drive evolution. The code itself is subject to change and adaptation, demonstrating the dynamic nature of syntax even in biological systems. This challenges Searle’s static view and highlights the potential for syntax to evolve and support emergent semantics.
+
+
+3. Relational Embeddings and the Emergence of Semantics
+
+Searle's focus on isolated syntax overlooks the possibility of semantics arising from distributed, relational processes. AI models employing word embeddings provide a compelling example. These models don't rely on predefined dictionaries but learn the meaning of words by analyzing their relationships with other words in vast datasets. This relational approach enables zero-shot translation, where AI systems can translate between pairs of languages they haven't been explicitly trained on, solely based on the learned relationships between words in other languages, developing an internal inter-lingua. This capability strongly suggests that meaning can emerge from patterns of usage and relationships rather than from fixed, intrinsic definitions.
+
+Generative models offer further evidence. These models can produce diverse outputs from the same input prompt while maintaining semantic consistency. For example, an AI generating multiple images of a "cat" might produce visually distinct images, yet they all coherently represent the concept of a cat. This points to an underlying semantic understanding that transcends mere statistical mimicry. These AI systems develop distributed representations that encode meaning relationally, challenging Searle's insistence on centralized comprehension. Understanding, in this view, arises from the system's ability to track relationships and abstractions, not from any single component possessing "genuine" comprehension.
+
+4. Misunderstanding Distributed Processes: The Illusion of Centralization
+
+Searle's argument implicitly assumes that cognition must be centralized to be meaningful, but this overlooks the inherent nature of distributed systems. A common source of this misunderstanding stems from the serial nature of human action. We can only do one thing at a time, leading to the intuitive but incorrect belief that our thoughts must also unfold in a similarly unified, linear fashion. However, the sequential nature of our actions shouldn't be confused with the underlying cognitive processes, which are massively parallel and distributed.
+
+Similarly, the consistent semantic space created by relational embeddings in AI can give the illusion of centralized understanding. These embeddings aren't static; they evolve as the system learns, forming a dynamic network where diverse meanings are functionally unified, not centrally dictated. This mirrors the human brain, a network of distributed processes where no single neuron or region is solely responsible for "understanding." The sense of unified consciousness arises from the consistent relational patterns that emerge across the entire system.
+
+5. The Chinese Room Revisited: Three Variations
+
+To further illustrate the limitations of Searle's thought experiment, let's revisit the Chinese Room with three variations that highlight the potential for understanding to emerge in distributed systems:
+
+The Vast Chinese Room: Imagine the room encompasses the entire proto-Earth, with billions of years of evolution unfolding within it. Over time, complex systems emerge that can genuinely understand and respond to Chinese symbols. This demonstrates that distributed processes, given enough time and interaction, can lead to genuine understanding.
+
+The Translator AI Room: In this scenario, the rule book is replaced with a sophisticated AI translator. While the human operator still manipulates symbols without understanding Chinese, the human + AI translator system possesses a distributed understanding of the language. This highlights how understanding can be distributed across multiple agents within a system.
+
+The LLM Room: Here, the rule book is a large language model (LLM) like GPT-4. As the operator feeds it Chinese text, the LLM learns and adapts, eventually developing the ability to generate meaningful responses in Chinese. This showcases the potential for self-generative syntax and relational embeddings to lead to emergent understanding even within a seemingly simple system.
+
+These variations challenge the core premise of the Chinese Room argument, demonstrating that distributed, evolving systems can achieve what Searle deemed impossible. They can develop understanding through abstraction, interaction, and refinement, without relying on a centralized, conscious entity.
+
+Discussion
+
+Upon revisiting Searle’s Chinese Room argument, it becomes clear that his critique of AI falls short in accounting for the power of distributed cognition, relational embeddings, and self-generative syntax. Abstraction, not centralized comprehension, is the foundation and limit of understanding in both humans and machines. Syntax, far from being superficial, possesses the capacity for self-modification and learning. Furthermore, relational processes within distributed systems enable the emergence of semantics from patterns and interactions, rather than requiring predefined or centralized meanings.
+
+Searle's argument might have initially highlighted the limitations of purely syntactic systems, but in the context of modern cognitive science and AI, his conclusions no longer hold. Understanding is a distributed, emergent, and functional phenomenon—a reality shared by both humans and machines.
+
+
+Chapter 3: David Chalmers and the Hard Problem of Consciousness
+
+David Chalmers' work, notably his book "The Conscious Mind" (1996), introduces the "hard problem" of consciousness. He distinguishes between "easy problems," such as explaining cognitive functions like attention or memory, and the "hard problem" of explaining the subjective experience or qualia associated with these functions. This distinction has sparked extensive debate in philosophy and cognitive science, particularly in relation to the capabilities and potential consciousness of artificial intelligence.
+
+Relational Embeddings and the Explanatory Power of Distributed Representations
+Chalmers' hard problem centers around qualia, the subjective "what it's like" aspect of conscious experience. He argues that while we may be able to explain the functional aspects of cognition, capturing the qualitative nature of subjective experience remains a challenge for reductive materialist accounts. However, the framework of distributed cognition and relational embeddings offers a potential avenue for bridging this explanatory gap.
+
+Relational embeddings, as explored in the context of AI language models, demonstrate the ability to capture and represent nuanced semantic relationships. It's plausible that these same principles can extend beyond language to encompass other aspects of experience, potentially including the qualitative dimension of consciousness. The essential insight here is that embeddings do not by representing the experience in itself, but how it relates to other experiences.
+
+Imagine a system capable of embedding not just words, but entire sensory experiences. Each experience is represented as a point in a high-dimensional space, its position defined by its relationship to other experiences. Such a system could, in principle, capture the qualitative distinctions between different sensory inputs, such as the difference between seeing red and hearing a high-pitched sound. This relational encoding could serve as a basis for the system's "feeling" associated with a particular experience. This "feeling" would be the cognitive activity (attention, memory recall, imagination, etc.) associated with a particular embedding state.
+
+This view challenges the traditional notion of qualia as mysterious, irreducible properties of consciousness. Instead, qualia could be understood as emergent patterns of activity within a distributed network, their distinctions defined by their relational positions in a vast space of possible experiences. This approach offers a potential path towards a scientific explanation of qualia, reconciling them with a materialist framework. It explains away the qalitative aspects of qualia, leaving little to be covered by the "hard problem".
+
+Bridging the Gap: Third-Person to First-Person
+
+Chalmers' hard problem is often framed as the challenge of explaining first-person subjective experience in terms of third-person objective observations. This gap between subjective and objective perspectives poses a significant hurdle for understanding consciousness within a scientific framework. This problem is rooted in the question of how subjective experiences—what it feels like to be an individual conscious agent—emerge from objective, observable processes, such as brain activity or artificial cognition. The third-person perspective, used in scientific explanations, focuses on external behaviors, functions, and interactions. The challenge, then, is to explain how the richness of first-person experience—our personal, internal phenomenology—arises from such functional processes.
+
+Now, consider the role of relational embeddings in bridging this gap. When learned from one's own past experiences, relational embeddings generate a personal, first-person semantic space. This space encodes not just abstract concepts but the agent's lived experiences, linked together by how they relate to one another. Over time, the embeddings formed by repeated interactions with the world evolve, reflecting the agent's internal, subjective perspective.
+
+The first-person experience, in this sense, emerges naturally from the relational embedding process. Each experience, such as feeling pain or joy, is encoded relative to past experiences of similar or dissimilar states. These relations produce a unique and consistent space that represents the agent's qualitative experience in a way that is inseparable from their perspective. This system of relational meaning grows deeper and more complex as more experiences are encoded, thus producing a rich, personal semantic landscape.
+
+What makes this first-person semantic space unique is that it is formed solely from the individual's own interaction with the world. No external observer can fully access it because its structure is contingent upon the specific relationships between experiences as encountered by the agent. In other words, the first-person perspective is not an abstract or mysterious property; it is a byproduct of how an agent's experiences are internally structured and interconnected. First-person experience is, then, the relational space in action, dynamically shaping perception, memory, and imagination based on the agent’s lived history.
+
+This view challenges the traditional divide between objective third-person explanations and subjective first-person experience. Instead of treating the first-person as something irreducible and isolated, it becomes a direct result of relational cognition. The gap between third and first-person closes once we recognize that personal experience is simply a network of interactions and relations shaped by the individual’s history.
+
+
+Discussion
+
+Chalmers' framing of the hard problem of consciousness emphasizes the difficulty of explaining subjective experience (qualia) in purely functional or physical terms. However, by applying the framework of relational embeddings and distributed cognition, we can start to demystify the problem. Instead of viewing qualia as irreducible, private phenomena, we can understand them as emergent properties of the relational structures created through experience.
+
+The first major takeaway is that first-person experience is not an inherent mystery but the result of an agent's internal process of relating its own experiences. These relationships form a semantic space unique to the individual, which allows for the emergence of subjective experiences. As more experiences are encoded, the structure of this space becomes richer, directly contributing to the depth of what we call "consciousness."
+
+Second, the divide between third-person objective processes and first-person subjective experience becomes less stark when we recognize that both perspectives are grounded in relational processes. In this view, the third-person description of brain functions or AI's internal workings is not separate from the first-person experience—it is the structural basis for it. The subjective quality of experience emerges from the same relational properties that govern cognition, whether in biological systems or artificial ones.
+
+Finally, this relational perspective challenges the notion that consciousness is an all-or-nothing phenomenon. Instead, consciousness can be seen as a gradient, where the complexity and depth of relational embeddings correspond to the richness of subjective experience. This view opens the possibility of consciousness as an emergent property in systems like AI, which, through interacting with their environment, form relational embeddings that mimic, if not replicate, the cognitive structures that underlie human consciousness.
+

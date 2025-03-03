@@ -1,0 +1,251 @@
+- Philosophers
+  - Searle
+    - Genuine understanding
+      - see abstraction
+    - Intentionality
+      - having a goal, in order to search, the agent needs to produce sub-goals
+      - every choice in the search tree creates subgoals
+      - goal-generative capabilities are required
+      - thus the agent learns a complex goal space
+        - can generate goals directly as a result
+      - enables openendedness
+        - necessary for evolution
+    - Self generative syntax
+      - syntax as behavior
+        - like the fw pass in a neural net
+        - or like running a program
+      - syntax as data
+        - like the bw pass in a neural net
+        - self reference, recurrence
+        - adaptability, learning
+      - demonstrating self-apprehending syntax
+        - Godel's arithmetization
+        - Functional programming
+        - DNA code copies itself
+          - and inserts mutations
+          - filtered by the environment
+        - ML models
+      - learning from data / environment
+        - generative syntax adapting to the environment
+        - semantics emerge from adaptation
+    - Chinese Room
+      - The Vast Chinese Room
+        - CR + evolution
+        - the room encompasses proto-earth
+        - after billions of years, there is understanding of Chinese inside
+      - The Translator AI
+        - distributed CR
+        - the rule book is a translator AI
+        - there is distributed understanding of Chinese
+      - The LLM
+        - blank book CR
+        - send the entire corpus of GPT-4 through the slit
+        - the rule book is the code to GPT-4
+        - as it receives text, it learns to solve tasks
+        - the rulebook can write itself
+    - We rely on abstraction
+      - there is no genuine understanding
+      - it's all functional
+      - Searle uses experts too
+        - he doesn't have genuine but functional understanding
+    - Distributed cognition
+      - Searle can't explain the brain
+        - individual neurons don't understand
+        - together they do
+      - it is necessarily distributed
+        - no agent has time to learn everything
+        - no neuron has access to everything
+        - we don't "know" we just function efficiently
+    - misunderstanding of serial action and consistent semantics as unification
+      - seriality causes illusion of unification
+        - it restricts actions to one choice every moment
+      - embeddings create consistent semantic representations
+        - the semantic space looks like it unifies things
+  - Chalmers
+    - relational embeddings
+      - qualitative aspects of qualia are explained away
+      - 3rd to 1st person
+        - embedding the experiences of one agent results in 1st person semantic spaces
+    - defines qualia by experience, and feeling
+      - what is feeling? - recursive definition!
+      - proposal - it is the cognitive activity related to an embedding state
+        - causing attention, memory and imagination to generate specific activity
+        - conditional on the embedding of current state
+        - so it is mental activity related to a semantic state
+  - Chomsky
+    - innate grammar
+      - unsupervised learning from sense data
+        - forming a rich background for learning language
+      - language co-evolution with the brain
+        - learnability in children as a filter
+    - biological essentialism
+      - it's a non-explanation
+      - doesn't mention evolution
+        - how did it get here, the universal grammar?
+        - was is evolved to fit brains or the other way around?
+  - Dennett
+    - aligns with distributed and relational approaches
+  - Tononi
+    - integrated information vs relational embeddings
+    - embeddings realize integration in differentiation, and differentiation in integration
+    - they are distributed representations, but unified in semantic space
+  - Wittgenstein
+    - semantics emerge from language games
+  - Kant
+    - indirect access based on abstraction
+  - Hegel
+    - dialectics
+  - Existentialism
+    - goal / value space is constructed in relation to the environment
+  - Embodied cognition
+  - Extended mind
+  - Evolutionary theories
+    - Darwin - genetics
+    - Dawkins - memetics
+    - AlphaZero - self play populations
+  - Bender & Gebru - Stochastic Parrots
+    - evidence from generative models
+      - zero shot translation demonstrates true semantics not mere pattern matching
+      - LLMs or image diffusion models sampled many times on the same prompt
+        - produce semantically coherent, but very different outputs
+        - this shows there is a semantic process at work, not mere statistics
+    - LLMs are not closed systems
+      - LLMs are interacting with humans, learning new things on the fly, not simply regurgitating training data
+      - chatGPT has 200M users, 1B sessions, 2T interactive tokens per month
+        - they are experience flywheels, collecting and giving back
+        - they scale much more than individual humans
+    - humans are also parroting
+      - using imperfect abstractions and not understanding the whole stack
+      - we act in functional manner, there is no homunculus in the brain
+      - no human can create language or culture individually - humanity is smarter than human individuals
+    - confusion between search and learning
+      - both humans and AIs rely on learning
+      - true novelty comes from search and interaction with the environment
+        - see move 37 Alpha Zero
+- Centralized vs Distributed cognition
+  - centralized cognition
+    - sequential
+    - unified
+  - distributed cognition
+    - parallel
+    - functional
+      - it's how society and humans work
+  - the illusion of centralization
+    - a CPU handles tasks sequentially but relies on the parallel interplay of millions of transistors
+      - similarly system I and system II in the brain
+    - the bottleneck of action
+      - we produce action by action in time
+    - common semantic space
+      - embedding process creates this space
+- Intrinsic vs Relational
+  - relational representation
+    - creating semantic spaces
+    - data as its own space
+    - capturing nuances
+    - transition to 1st person
+    - unifying cognition at representation level
+    - word2vec, transformers
+      - directions in embedding space are semantic
+    - activations in neural nets and brain 
+  - intrinsic representation
+    - is it even possible?
+- Properties of the environment
+  - compositional
+  - hierarchical
+  - recurrent in time
+    - iteration, timeline
+      - each moment has access to previous moment
+      - preserving and updating internal state
+- Properties of agents
+  - examples of agents this applies to
+    - genes, abstractions, humans, societies, AI agents
+  - properties
+    - compositional, hierarchical, recurrent and recursive
+      - inherited from physical properties
+    - social, distributed
+    - discrete, symbolic, language based
+      - a necessity for replication
+      - exploiting knowledge requires exact replay of steps
+      - articulate search and goal spaces
+- Search
+  - there is a search space, a goal space and an action space
+    - in language all three are unified in the same language space
+  - is better defined
+    - has a search space
+    - has a goal space
+    - has an action space
+    - scientific
+    - universal across layers
+      - everything complex is search based
+      - at the lowest level it is search for minimizing energy
+      - neural nets search to minimize loss
+      - builds the path from data to semantics
+    - not just individual, but also interpresonal
+    - more accessible to measure, test and iterate
+  - vs. consciousness, understanding, intelligence
+    - domain of activity?? - not clear
+    - source of experience?? - often not mentioned
+    - tries to explain in a centralized way a distributed process
+      - and fail to add any explanatory power
+      - just deepen the mystery
+  - vs. emergence
+    - emergence is more mysterious than search
+    - doesn't help intuition to picture the process
+    - search gives a direction and a space
+    - stacking search has more explanatory power
+      - molecular, genetic, cognitive, social
+      - at least search shows the importance of the environment
+      - emergence looks like it happens in itself, which gives the wrong intuition
+  - examples
+    - protein folding
+    - DNA evolution
+    - cultural progress
+    - cognition
+    - AI
+  - agentic double search process
+    - search for experience / data
+      - apply learned behavior
+    - search for understanding
+      - compress data
+      - refine relational embeddings
+  - search can be recursive
+    - can call on itself
+    - can reference itself
+    - can adapt and learn along the process
+- Abstraction
+  - we need abstraction to function
+  - abstractions are leaky
+  - human brain has a hierarchy of abstraction
+    - from edge detectors in the visual cortex
+    - to concepts like democracy
+  - we can't understand all abstractions
+    - nobody knows everything
+  - even if we did, abstractions themselves are leaky
+    - like the no-free-lunch theorem
+    - no model is perfect for all cases
+  - in software we deal with abstraction
+    - need it to reign in complexity
+    - we use it to grasp more with our minds
+    - it always presents trade-offs
+    - we have cultural wars between various approaches
+  - in philosophy - same situation
+  - the components of relational embeddings are abstractions
+    - like we describe an object by form, color, weight, usage, etc
+    - the neurons in the brain and neural nets are abstracting their inputs
+  - we can say an abstraction is like a name associated to a point
+    - or a region in the relational embedding space
+  - there is no genuine understanding
+    - it's decentralized and functional
+    - when we go to the doctor, we don't study medicine first
+    - when we use a phone, we don't think how it works
+    - society works in a distributed-functional way
+      - in a company a department only has an abstraction of what other departments are doing
+      - society as large works without a centralized understander
+      - it's only functional, not genuine understanding
+  - what does it mean to understand?
+    - to predict
+    - to control and use
+    - to explain
+    - to discover
+    - to model that generalizes well
+    - to feel / experience
